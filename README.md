@@ -1,0 +1,2 @@
+# KhufiyaProject
+ MVC Core Application
